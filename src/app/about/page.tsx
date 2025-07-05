@@ -17,7 +17,7 @@ export default function AboutPage() {
             featuring role-based access control, data visualization, and database<br /> 
             integration. My work emphasizes clean, maintainable code and thoughtful user<br />
             experiences. Fast-paced environments are what I thrive, and I enjoy tackling<br /> 
-            challenges head-on, whether it's debugging complex issues or optimizing<br /> 
+            challenges head-on, whether it&apos;s debugging complex issues or optimizing<br /> 
             performance. I have a knack for breaking down complex problems into manageable <br />
             tasks, ensuring that I deliver high-quality solutions efficiently. 
           </p>
