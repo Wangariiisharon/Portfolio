@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Instagram, Layers, User } from 'lucide-react';
+import { Github, Linkedin, User } from 'lucide-react';
 
 const SocialFooterSection = () => {
   return (

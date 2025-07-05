@@ -5,7 +5,7 @@ export default function AboutPage() {
         <div className="text-gray-400  lg:text-base text-sm md:text-base tracking-wide font-nunito">
             <p className="text-white font-bold text-sm lg:hidden py-2">ABOUT</p>
           <p>
-            Hi, I'm Sharon Mwangi, a passionate software developer with two years of  <br />
+            Hi, I&apos;m  Sharon Mwangi, a passionate software developer with two years of  <br />
             hands-on experience in building web applications that are dynamic and  <br />
             user-friendly using modern technologies. I specialize in responsive,  <br />
             accessible, and scalable front-end interfaces coupled with potent back-end <br />
