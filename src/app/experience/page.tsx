@@ -16,8 +16,8 @@ export default function ExperienceSection() {
           
           {/* Content */}
           <div className="flex-1">
-            <div className="flex flex-row">
-            <p className="text-xl text-sm font-semibold mb-4">
+            <div className="">
+            <p className="text-xl text-sm font-semibold mb-4 flex flex-row">
                 Full-stack Developer. Gessic
                 <a href="https://gessic.com" target="_blank" rel="noopener noreferrer">
             <ExternalLink size={16} className="text-teal-300" />

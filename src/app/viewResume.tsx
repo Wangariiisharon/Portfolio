@@ -24,8 +24,8 @@ export default function ViewResume() {
       >
         View Full Resume
       </button>   
-      <a href="https://gessic.com" target="_blank" rel="noopener noreferrer">
-            <ExternalLink size={16} className="text-teal-300 hover:text-teal-700 text-white" />
+      <a href="" target="_blank" rel="noopener noreferrer" className='text-teal-300 hover:text-teal-700 text-white'>
+            <ExternalLink size={16} className="" />
       </a>
 
     </div>
