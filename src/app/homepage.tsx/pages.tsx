@@ -86,7 +86,7 @@ import Socials from "../socials";
         <span 
         // className="inline-block w-12 border-t border-gray-600 align-middle mr-2"
         className={`inline-block w-12 border-t border-gray-600 align-middle mr-2 ${
-          activeSection === "about" ? "border-white w-16 font-semibold text-sm" : "border-gray-600"
+          activeSection === "about" ? "border-white w-16 text-sm" : "border-gray-600"
         }`}
         ></span>
         ABOUT
@@ -103,7 +103,7 @@ import Socials from "../socials";
       >
         <span 
            className={`inline-block w-12 border-t border-gray-600 align-middle mr-2 ${
-            activeSection === "experience" ? "border-white w-16 font-semibold text-sm" : "border-gray-600"
+            activeSection === "experience" ? "border-white w-16 text-sm" : "border-gray-600"
           }`}
         ></span>
         EXPERIENCE
@@ -120,7 +120,7 @@ import Socials from "../socials";
       >
         <span 
   className={`inline-block w-12 border-t border-gray-600 align-middle mr-2 ${
-    activeSection === "projects" ? "border-white w-16 font-semibold text-sm" : "border-gray-600"
+    activeSection === "projects" ? "border-white w-16  text-sm" : "border-gray-600"
   }`}        ></span>
         PROJECTS
       </button>
